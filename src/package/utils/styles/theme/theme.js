@@ -34,7 +34,7 @@ export const DEFAULT_THEME = Object.freeze({
             default: {
                 backgroundColor: 'dark',
                 color: 'light',
-                backBackgroundColor: 'light',
+                backBackgroundColor: 'black',
                 backColor: 'dark'
             },
             variants: [

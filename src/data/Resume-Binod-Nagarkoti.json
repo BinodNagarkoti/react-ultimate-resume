@@ -15,11 +15,7 @@
             "region": "Bagmati"
         },
         "profiles": [
-            {
-                "network": "Facebook",
-                "username": "Binodb",
-                "url": "https://www.facebook.com/Binodb"
-            },
+            { "network": "Facebook", "username": "Binodb", "url": "https://www.facebook.com/Binodb" },
             {
                 "network": "linkedin",
                 "username": "binod-nagarkot",
@@ -38,7 +34,6 @@
             "highlights": ["Started the company"]
         }
     ],
-
     "education": [
         {
             "institution": "Nilkantha Secondary Boarding School",
@@ -68,14 +63,7 @@
             "courses": ["BIT"]
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
+    "awards": [{ "title": "Award", "date": "2014-11-01", "awarder": "Company", "summary": "There is no spoon." }],
     "publications": [
         {
             "name": "Publication",
@@ -86,19 +74,8 @@
         }
     ],
     "skills": [
-        {
-            "name": "React and Redux",
-            "level": "Junior",
-            "value": 50,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-
-        {
-            "name": "NodeJS",
-            "level": "Junior",
-            "value": 40,
-            "keywords": ["Runtime service", "Backend", "Javascript"]
-        },
+        { "name": "React and Redux", "level": "Junior", "value": 50, "keywords": ["HTML", "CSS", "Javascript"] },
+        { "name": "NodeJS", "level": "Junior", "value": 40, "keywords": ["Runtime service", "Backend", "Javascript"] },
         {
             "name": "MongoDb",
             "level": "Junior",
@@ -108,34 +85,13 @@
     ],
     "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
     "interests": [
-        {
-            "name": "Katti Rolls",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-        {
-            "name": "Computer Games",
-            "gifUrl": "https://media.giphy.com/media/VwM9w72cXiSHu/giphy.gif"
-        },
-        {
-            "name": "Table tennis",
-            "gifUrl": "https://media.giphy.com/media/8zT0D36Myf9C0/giphy.gif"
-        },
-        {
-            "name": "Reading",
-            "gifUrl": "https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif"
-        },
-        {
-            "name": "Programming",
-            "gifUrl": "https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif"
-        },
-
-        {
-            "name": "Listen Music",
-            "gifUrl": "https://media.giphy.com/media/ku5EcFe4PNGWA/giphy.gif"
-        },
-        {
-            "name": "I love to run and hike, with family and friends on weekends."
-        }
+        { "name": "Katti Rolls", "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif" },
+        { "name": "Computer Games", "gifUrl": "https://media.giphy.com/media/VwM9w72cXiSHu/giphy.gif" },
+        { "name": "Table tennis", "gifUrl": "https://media.giphy.com/media/8zT0D36Myf9C0/giphy.gif" },
+        { "name": "Reading", "gifUrl": "https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" },
+        { "name": "Programming", "gifUrl": "https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" },
+        { "name": "Listen Music", "gifUrl": "https://media.giphy.com/media/ku5EcFe4PNGWA/giphy.gif" },
+        { "name": "I love to run and hike, with family and friends on weekends." }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
@@ -236,7 +192,7 @@
             "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
         },
         "dreamJob": {
-            "locations": [{ "name": "Kathmnadu, Nepal" }],
+            "locations": [{ "name": "Kathmnadu, Nepal", "id": "9fa69bbc-84cb-408c-b63c-f3f2cf7f963b" }],
             "remoteFrequency": "Occasionally",
             "perks": {
                 "mood": true,
@@ -253,22 +209,17 @@
         "currentJob": {},
         "education": { "studiesLevel": 5 },
         "work": {
-            "contractTypes": ["fixedTerm"],
+            "contractTypes": ["permanent", "fixedTerm", "freelance"],
             "codingYears": 4,
             "codingReason": "I started coding since my Bachelor started and I haven't stopped since",
             "searchState": "activelySearching",
             "experienceYears": 4
         },
-
         "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/790zNrSp9IStRN8yEYMHxm" },
-
         "interestedBy": "ReactJS,NodeJs,MongoDb."
     },
     "customization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
-        },
+        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
         "theme": {
             "palette": {
                 "primary": {
@@ -324,5 +275,6 @@
             { "type": "language", "variant": 4 },
             { "type": "soundtrack", "variant": 4 }
         ]
-    }
+    },
+    "resumeCustomization": {}
 }
